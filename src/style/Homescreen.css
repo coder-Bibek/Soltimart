@@ -1,0 +1,10 @@
+
+*:focus,*::after{
+    outline: none !important;
+box-shadow: none !important;
+}
+@media only screen and (max-width: 1100px) {
+    .main-cardbody h4{
+        font-size: 1.2rem !important;
+    }
+  }
